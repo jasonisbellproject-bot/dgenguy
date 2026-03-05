@@ -50,10 +50,10 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
             <div className="w-10 h-10 rounded-full bg-brand-gold/20 border border-brand-gold/40 flex items-center justify-center text-brand-gold font-bold text-lg">
-              M
+              S
             </div>
             <div>
-              <div className="text-white font-bold text-sm leading-tight font-display">METATECH</div>
+              <div className="text-white font-bold text-sm leading-tight font-display">SMART TECH</div>
               <div className="text-brand-gold text-xs tracking-widest uppercase">Recovery Pro</div>
             </div>
           </Link>

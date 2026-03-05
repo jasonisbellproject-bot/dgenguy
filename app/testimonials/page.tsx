@@ -2,12 +2,12 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 const testimonials = [
-  { name: "Alex Jason", role: "Finance Consultant", initials: "AJ", text: "Metatech Recoverypro is a lifesaver! They helped me recover my stolen cryptocurrency and brought the scammers to justice. Their expertise and professionalism are unmatched. 10/10 would recommend!" },
-  { name: "Martin Doe", role: "Founder & CEO", initials: "MD", text: "Metatech Recovery Pro is the best in the business! They successfully recovered my assets from a fraudulent investment scheme. Their knowledge and expertise in crypto forensics is impressive. Highly recommended!" },
-  { name: "Jin Steven", role: "Product Manager", initials: "JS", text: "Metatech Recovery Pro exceeded my expectations! They not only recovered my stolen crypto but also helped me understand how to protect myself from future scams. Their education and support are priceless." },
-  { name: "Mona Kamal", role: "Founder & CEO", initials: "MK", text: "I'm grateful for Metatech Recovery Pro's expertise in recovering my assets from a hacked wallet. Their attention to detail and commitment to justice are admirable. If you're a victim of crypto fraud, look no further!" },
-  { name: "Sarah Williams", role: "Investor", initials: "SW", text: "After losing over $50,000 in a fake trading platform, I had lost all hope. Metatech Recovery Pro not only recovered most of my funds but guided me through every step of the process with transparency and care." },
-  { name: "David Chen", role: "Business Owner", initials: "DC", text: "When our company's crypto wallet was compromised, we feared the worst. The Metatech team acted swiftly and professionally, tracing the funds and working with law enforcement to recover our assets." },
+  { name: "Alex Jason", role: "Finance Consultant", initials: "AJ", text: "Smart Tech Recovery Pro is a lifesaver! They helped me recover my stolen cryptocurrency and brought the scammers to justice. Their expertise and professionalism are unmatched. 10/10 would recommend!" },
+  { name: "Martin Doe", role: "Founder & CEO", initials: "MD", text: "Smart Tech Recovery Pro is the best in the business! They successfully recovered my assets from a fraudulent investment scheme. Their knowledge and expertise in crypto forensics is impressive. Highly recommended!" },
+  { name: "Jin Steven", role: "Product Manager", initials: "JS", text: "Smart Tech Recovery Pro exceeded my expectations! They not only recovered my stolen crypto but also helped me understand how to protect myself from future scams. Their education and support are priceless." },
+  { name: "Mona Kamal", role: "Founder & CEO", initials: "MK", text: "I'm grateful for Smart Tech Recovery Pro's expertise in recovering my assets from a hacked wallet. Their attention to detail and commitment to justice are admirable. If you're a victim of crypto fraud, look no further!" },
+  { name: "Sarah Williams", role: "Investor", initials: "SW", text: "After losing over $50,000 in a fake trading platform, I had lost all hope. Smart Tech Recovery Pro not only recovered most of my funds but guided me through every step of the process with transparency and care." },
+  { name: "David Chen", role: "Business Owner", initials: "DC", text: "When our company's crypto wallet was compromised, we feared the worst. The Smart Tech team acted swiftly and professionally, tracing the funds and working with law enforcement to recover our assets." },
 ];
 
 export default function TestimonialsPage() {

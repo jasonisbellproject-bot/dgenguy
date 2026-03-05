@@ -1,6 +1,6 @@
-# Metatech Recovery Pro — Next.js Clone
+# Smart Tech Recovery Pro — Next.js Clone
 
-A pixel-accurate Next.js 14 clone of [metatechrecoverypro.com](https://metatechrecoverypro.com/) built with:
+A pixel-accurate Next.js 14 clone of [smarttechrecoverypro.com](https://smarttechrecoverypro.com/) built with:
 
 - **Next.js 14** (App Router)
 - **TypeScript**

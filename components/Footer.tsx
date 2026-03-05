@@ -27,14 +27,14 @@ export default function Footer() {
 
       {/* Main Footer */}
       <div className="max-w-7xl mx-auto px-6 py-16 grid grid-cols-1 md:grid-cols-3 gap-12">
-        {/* Brand */}
-        <div>
-          <div className="flex items-center gap-3 mb-4">
+        {/* Brand Info */}
+        <div className="mb-10 md:mb-0 max-w-sm">
+          <div className="flex items-center gap-3 mb-6">
             <div className="w-10 h-10 rounded-full bg-brand-gold/20 border border-brand-gold/40 flex items-center justify-center text-brand-gold font-bold text-lg">
-              M
+              S
             </div>
             <div>
-              <div className="text-white font-bold text-sm font-display">METATECH</div>
+              <div className="text-white font-bold text-sm font-display">SMART TECH</div>
               <div className="text-brand-gold text-xs tracking-widest uppercase">Recovery Pro</div>
             </div>
           </div>
@@ -88,7 +88,7 @@ export default function Footer() {
       {/* Bottom Bar */}
       <div className="border-t border-brand-gold/10 py-5 px-6">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-gray-500">
-          <p>© {new Date().getFullYear()} Metatech Recovery Pro. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Smart Tech Recovery Pro. All rights reserved.</p>
           <p>Crypto Fraud Investigation & Asset Recovery Specialists</p>
         </div>
       </div>
