@@ -38,7 +38,7 @@ export default function AboutPage() {
                     Our mission is to provide cutting-edge solutions and unparalleled support to those affected by the growing threat of cryptocurrency scams and cybercrime.
                   </p>
                   <p>
-                    Founded by victims who experienced crypto fraud firsthand, Smart Tech Recovery Pro understands the emotional and financial toll of these crimes. We&apos;ve built our company around a single mission: to fight back against digital fraud and help victims reclaim what is rightfully theirs.
+                    Founded by victims who experienced crypto fraud firsthand, KRYPTONITE ASSET RECOVERY SLEUTHS understands the emotional and financial toll of these crimes. We&apos;ve built our company around a single mission: to fight back against digital fraud and help victims reclaim what is rightfully theirs.
                   </p>
                 </div>
                 <div className="mt-10">

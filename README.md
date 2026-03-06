@@ -1,6 +1,6 @@
-# Smart Tech Recovery Pro — Next.js Clone
+# KRYPTONITE ASSET RECOVERY SLEUTHS — Next.js Clone
 
-A pixel-accurate Next.js 14 clone of [smarttechrecoverypro.com](https://smarttechrecoverypro.com/) built with:
+A pixel-accurate Next.js 14 clone built with:
 
 - **Next.js 14** (App Router)
 - **TypeScript**

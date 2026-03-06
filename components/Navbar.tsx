@@ -36,6 +36,12 @@ export default function Navbar() {
           </svg>
           4789 Ersel Street, Dallas, Texas, USA
         </span>
+        <span className="flex items-center gap-2">
+          <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
+            <path d="M2 4.5A1.5 1.5 0 013.5 3H6a1.5 1.5 0 011.5 1.5v2A1.5 1.5 0 016 8H5a9 9 0 004.5 4.5v-1A1.5 1.5 0 0111 10h2a1.5 1.5 0 011.5 1.5v3A1.5 1.5 0 0113 16h-1A10 10 0 012 6V5a1.5 1.5 0 011.5-1.5z" />
+          </svg>
+          +1 458 2234139
+        </span>
       </div>
 
       {/* Main Navbar */}
@@ -50,11 +56,11 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
             <div className="w-10 h-10 rounded-full bg-brand-gold/20 border border-brand-gold/40 flex items-center justify-center text-brand-gold font-bold text-lg">
-              S
+              K
             </div>
             <div>
-              <div className="text-white font-bold text-sm leading-tight font-display">SMART TECH</div>
-              <div className="text-brand-gold text-xs tracking-widest uppercase">Recovery Pro</div>
+              <div className="text-white font-bold text-sm leading-tight font-display">KRYPTONITE</div>
+              <div className="text-brand-gold text-xs tracking-widest uppercase">ASSET RECOVERY SLEUTHS</div>
             </div>
           </Link>
 

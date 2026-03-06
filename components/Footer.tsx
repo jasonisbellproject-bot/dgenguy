@@ -31,11 +31,11 @@ export default function Footer() {
         <div className="mb-10 md:mb-0 max-w-sm">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-10 h-10 rounded-full bg-brand-gold/20 border border-brand-gold/40 flex items-center justify-center text-brand-gold font-bold text-lg">
-              S
+              K
             </div>
             <div>
-              <div className="text-white font-bold text-sm font-display">SMART TECH</div>
-              <div className="text-brand-gold text-xs tracking-widest uppercase">Recovery Pro</div>
+              <div className="text-white font-bold text-sm font-display">KRYPTONITE</div>
+              <div className="text-brand-gold text-xs tracking-widest uppercase">ASSET RECOVERY SLEUTHS</div>
             </div>
           </div>
           <p className="text-gray-400 text-sm leading-relaxed mb-6">
@@ -81,6 +81,12 @@ export default function Footer() {
               </svg>
               <span>Open 24/7, 365 days</span>
             </div>
+            <div className="flex items-center gap-3">
+              <svg className="w-4 h-4 text-brand-gold shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M2 4.5A1.5 1.5 0 013.5 3H6a1.5 1.5 0 011.5 1.5v2A1.5 1.5 0 016 8H5a9 9 0 004.5 4.5v-1A1.5 1.5 0 0111 10h2a1.5 1.5 0 011.5 1.5v3A1.5 1.5 0 0113 16h-1A10 10 0 012 6V5a1.5 1.5 0 011.5-1.5z" />
+              </svg>
+              <span>+1 458 2234139</span>
+            </div>
           </div>
         </div>
       </div>
@@ -88,7 +94,7 @@ export default function Footer() {
       {/* Bottom Bar */}
       <div className="border-t border-brand-gold/10 py-5 px-6">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-gray-500">
-          <p>© {new Date().getFullYear()} Smart Tech Recovery Pro. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} KRYPTONITE ASSET RECOVERY SLEUTHS. All rights reserved.</p>
           <p>Crypto Fraud Investigation & Asset Recovery Specialists</p>
         </div>
       </div>

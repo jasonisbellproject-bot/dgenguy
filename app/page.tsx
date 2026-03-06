@@ -45,19 +45,19 @@ const testimonials = [
   {
     name: "Alex Jason",
     role: "Finance Consultant",
-    text: "Smart Tech Recovery Pro is a lifesaver! They helped me recover my stolen cryptocurrency and brought the scammers to justice. Their expertise and professionalism are unmatched.",
+    text: "KRYPTONITE ASSET RECOVERY SLEUTHS is a lifesaver! They helped me recover my stolen cryptocurrency and brought the scammers to justice. Their expertise and professionalism are unmatched.",
     initials: "AJ",
   },
   {
     name: "Martin Doe",
     role: "Founder & CEO",
-    text: "Smart Tech Recovery Pro is the best in the business! They successfully recovered my assets from a fraudulent investment scheme. Their knowledge in crypto forensics is impressive.",
+    text: "KRYPTONITE ASSET RECOVERY SLEUTHS is the best in the business! They successfully recovered my assets from a fraudulent investment scheme. Their knowledge in crypto forensics is impressive.",
     initials: "MD",
   },
   {
     name: "Jin Steven",
     role: "Product Manager",
-    text: "Smart Tech Recovery Pro exceeded my expectations! They not only recovered my stolen crypto but also helped me understand how to protect myself from future scams.",
+    text: "KRYPTONITE ASSET RECOVERY SLEUTHS exceeded my expectations! They not only recovered my stolen crypto but also helped me understand how to protect myself from future scams.",
     initials: "JS",
   },
   {
@@ -325,7 +325,7 @@ export default function Home() {
                   <span className="text-gold-gradient">stolen cryptocurrencies</span>
                 </h2>
                 <p className="text-gray-400 leading-relaxed mb-8">
-                  Worry less about your crypto &amp; cyber fraud invasion. SMART TECH RECOVERY PRO has got you. Let us provide the support you deserve.
+                  Worry less about your crypto &amp; cyber fraud invasion. KRYPTONITE ASSET RECOVERY SLEUTHS has got you. Let us provide the support you deserve.
                 </p>
                 <Link
                   href="/contact"
@@ -388,7 +388,7 @@ export default function Home() {
                 <div className="h-px w-8 bg-brand-gold" />
               </div>
               <h2 className="font-display text-4xl md:text-5xl font-bold text-white mb-4">
-                Smart Tech <span className="text-gold-gradient">Recovery Pro</span>
+                KRYPTONITE <span className="text-gold-gradient">ASSET RECOVERY SLEUTHS</span>
               </h2>
               <p className="text-gray-400 max-w-2xl mx-auto leading-relaxed">
                 Our team of expert private investigators specializes in crypto fraud and asset recovery, with years of experience tracking down scammers and recovering stolen assets.

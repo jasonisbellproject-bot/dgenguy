@@ -75,6 +75,12 @@ export default function ContactPage() {
                       value: "4789 Ersel Street, Dallas, Texas, USA",
                       href: "#",
                     },
+                    {
+                      icon: <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M2 4.5A1.5 1.5 0 013.5 3H6a1.5 1.5 0 011.5 1.5v2A1.5 1.5 0 016 8H5a9 9 0 004.5 4.5v-1A1.5 1.5 0 0111 10h2a1.5 1.5 0 011.5 1.5v3A1.5 1.5 0 0113 16h-1A10 10 0 012 6V5a1.5 1.5 0 011.5-1.5z" /></svg>,
+                      label: "Phone",
+                      value: "+1 458 2234139",
+                      href: "tel:+14582234139",
+                    },
                   ].map((item) => (
                     <a
                       key={item.label}
